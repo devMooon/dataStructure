@@ -1,8 +1,8 @@
-//#include <stdio.h>
-/*#include <stdlib.h>
-#include <time.h>*/
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
-/*void print_data(int a[], int n);
+void print_data(int a[], int n);
 double average(int a[], int n);
 double variance(int a[], double b[], int n, double aver);
 void deviation(int a[], double b[], int n, double aver);
@@ -26,7 +26,7 @@ int main(void)
 
 
 	//데이터 처리 결과 출력
-	/*printf("변경 전 데이터 : ");
+	printf("변경 전 데이터 : ");
 	print_data(data, size);
 	printf("버려진 값의 갯수 : %d\n", garbage(data, size, 1, 9, 2));
 
@@ -96,4 +96,4 @@ int upAverage(int a[], int n, double aver)
 		}	
 	}
 	return upAver;
-}*/
+}
