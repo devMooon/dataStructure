@@ -140,9 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="가장 작은 값 찾기.c" />
+    <ClCompile Include="선택정렬 알고리즘의 수행시간 측정.c" />
     <ClCompile Include="선택정렬(개선).c" />
     <ClCompile Include="선택정렬.c" />
     <ClCompile Include="선형검색.c" />
+    <ClCompile Include="순환함수f(5).c" />
     <ClCompile Include="이진검색.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

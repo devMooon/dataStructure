@@ -30,5 +30,11 @@
     <ClCompile Include="가장 작은 값 찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="순환함수f(5).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택정렬 알고리즘의 수행시간 측정.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

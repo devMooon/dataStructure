@@ -18,5 +18,8 @@
     <ClCompile Include="자기참조구조체.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="배열을 이용한 알고리즘.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
