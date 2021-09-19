@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int binsearch(int list[], int searchnum, int left, int right)
 {
@@ -20,4 +20,4 @@ int main(void)
 	printf("* It's at %d\n", found);
 
 	return 0;
-}
+}*/
