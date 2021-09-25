@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int array_concat(int A[], int n1, int B[], int n2, int C[])
 {
 	int num = n1 + n2;
@@ -36,4 +36,4 @@ int main(void)
 	print_arr(C, n3);
 
 	return 0;
-}
+}*/
