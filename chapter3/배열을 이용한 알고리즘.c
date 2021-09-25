@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 void scanarr(int list[], int size);
 void printarr(int list[], int size);
@@ -53,4 +53,4 @@ void add(int a[], int b[], int c[], int size)
 		}
 		c[i] += sum - c[i];
 	}
-}
+}*/
