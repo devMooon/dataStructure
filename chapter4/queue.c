@@ -13,7 +13,7 @@ void insertq(int* rear, int front, element item) {
 	if (*rear == MAX_QUEUE_SIZE - 1) {
 		printf(" => Queue Full\n");
 		//exit();
-		/* 다른 처리방법 ? 큐의 원소를 모두 왼쪽으로 이동 ? */
+		/* 다른 처리방법 ? 큐의 원소를 모두 원쪽으로 이동 ? */
 	}
 	queue[++ * rear] = item;
 }
