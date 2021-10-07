@@ -1,5 +1,4 @@
-
-/* DBLAB stacktest.c */
+//컴퓨터공학전공 20200675 문서연
 /*#include <stdio.h>
 #define MAX_STACK_SIZE 100
 int stack1[MAX_STACK_SIZE];

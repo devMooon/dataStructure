@@ -1,10 +1,9 @@
-
-/* DBLAB queue.c */
-#include <stdio.h>
+//컴퓨터공학전공 20200675 문서연
+/*#include <stdio.h>
 #define MAX_QUEUE_SIZE 100
 typedef struct {
 	int key;
-	/* other fields */
+	// other fields
 } element;
 
 element queue[MAX_QUEUE_SIZE];
@@ -13,7 +12,7 @@ void insertq(int* rear, int front, element item) {
 	if (*rear == MAX_QUEUE_SIZE - 1) {
 		printf(" => Queue Full\n");
 		//exit();
-		/* 다른 처리방법 ? 큐의 원소를 모두 원쪽으로 이동 ? */
+		// 다른 처리방법 ? 큐의 원소를 모두 원쪽으로 이동 ?
 	}
 	queue[++ * rear] = item;
 }
@@ -22,8 +21,8 @@ element deleteq(int* front, int rear) {
 	//element e;
 	if (*front == rear)
 	{
-		printf(" => Queue Full\n");
-		//exit(); /* return an error key */
+		printf(" => Queue Empty\n");
+		//exit(); return an error key 
 	}
 	return queue[++ * front];
 }
@@ -46,7 +45,7 @@ int isfull(int front, int rear)
 }
 
 
-void main(void) /* 큐를 테스트하는 프로그램 */
+void main(void) // 큐를 테스트하는 프로그램
 {
 	int rear = -1; 	int front = -1;
 	element e1, e2;
@@ -58,4 +57,4 @@ void main(void) /* 큐를 테스트하는 프로그램 */
 	printf(" => Return Value is %d\n", e2.key);
 	e2 = deleteq(&front, rear);
 	printf(" => Return Value is %d\n", e2.key);
-}
+}*/
