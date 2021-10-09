@@ -3,3 +3,153 @@ chapter1/.vs/chapter1/v16/ipch/AutoPCH/7be98dab07a11d3a/이진 검색 알고리�
 chapter1/.vs/chapter1/v16/ipch/AutoPCH/a5c458eeafe8b414/선택 정렬 알고리즘.ipch
 chapter1/.vs/chapter1/v16/ipch/AutoPCH/a658278413a5b54a/순환 알고리즘(피보나치 수열).ipch
 chapter1/.vs/chapter1/v16/ipch/AutoPCH/ff02dcf982384a6b/이진 검색 알고리즘.ipch
+chapter4/chapter4.sln
+chapter4/chapter4.vcxproj
+chapter4/chapter4.vcxproj.filters
+chapter4/chapter4.vcxproj.user
+chapter4/.vs/chapter4/v16/.suo
+chapter4/.vs/chapter4/v16/Browse.VC.db
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/201a6fc918d6d6f5/QUEUE(실험1).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/2187e11febf7025f/QUEUE(2).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/31b370a9a067c2cc/STACKTEST(실험1).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/40ec1c8b000058a5/STACKTEST(1).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/4a67ebac46b66c77/STACKTEST.ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/5c0d57d1c76804ca/QUEUE(실험2).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/7cde8493ae90acfa/STACKTEST(2).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/85042880aa2296c8/QUEUE.ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/92fbdd179fa93952/QUEUE(3).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/9cd374bb87802b16/STACKTEST(실험3).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/b426890608825038/QUEUE(1).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/b51e28c42195ee13/STACKTEST(실험2).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/b6b889bfae02907/STACKTEST(3).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/b73a31fde53e1d8b/CIRCULARQUEUE.ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/b7b4b6f98e208ef1/STACK(1).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/c03b1bd8d9b6fc97/QUEUE(실험3).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/c5aec5499820d36a/교재연습문제_4번(STACK).ipch
+chapter4/.vs/chapter4/v16/ipch/AutoPCH/f1f70dd1ab4d2fc/교재연습문제_5번(QUEUE).ipch
+chapter4/Debug/chapter4.Build.CppClean.log
+chapter4/Debug/chapter4.exe
+chapter4/Debug/chapter4.exe.recipe
+chapter4/Debug/chapter4.ilk
+chapter4/Debug/chapter4.log
+chapter4/Debug/chapter4.pdb
+chapter4/Debug/chapter4.vcxproj.FileListAbsolute.txt
+chapter4/Debug/circularqueue.obj
+chapter4/Debug/queue(1).obj
+chapter4/Debug/queue(2).obj
+chapter4/Debug/queue(3).obj
+chapter4/Debug/queue(실험1).obj
+chapter4/Debug/queue(실험2).obj
+chapter4/Debug/queue(실험3).obj
+chapter4/Debug/queue.obj
+chapter4/Debug/stack(1).obj
+chapter4/Debug/stacktest(1).obj
+chapter4/Debug/stacktest(2).obj
+chapter4/Debug/stacktest(3).obj
+chapter4/Debug/stacktest(실험1).obj
+chapter4/Debug/stacktest(실험2).obj
+chapter4/Debug/stacktest(실험3).obj
+chapter4/Debug/stacktest.obj
+chapter4/Debug/vc142.idb
+chapter4/Debug/vc142.pdb
+chapter4/Debug/교재연습문제_4번(Stack).obj
+chapter4/Debug/교재연습문제_5번(Queue).obj
+chapter4/Debug/chapter4.tlog/chapter4.lastbuildstate
+chapter4/Debug/chapter4.tlog/CL.command.1.tlog
+chapter4/Debug/chapter4.tlog/CL.read.1.tlog
+chapter4/Debug/chapter4.tlog/CL.write.1.tlog
+chapter4/Debug/chapter4.tlog/link.command.1.tlog
+chapter4/Debug/chapter4.tlog/link.read.1.tlog
+chapter4/Debug/chapter4.tlog/link.write.1.tlog
+chapter5/chapter5.sln
+chapter5/.vs/chapter5/v16/.suo
+chapter5/.vs/chapter5/v16/Browse.VC.db
+chapter5/.vs/chapter5/v16/ipch/AutoPCH/1af320572723199d/INFIXTOPOSFIX(실험1).ipch
+chapter5/.vs/chapter5/v16/ipch/AutoPCH/3b9ed1518f143939/INFIXTOPOSTFIX(실험1).ipch
+chapter5/.vs/chapter5/v16/ipch/AutoPCH/4f3fad66592c3060/INFIXTOPOSFIX.ipch
+chapter5/.vs/chapter5/v16/ipch/AutoPCH/c622dd60b2974adb/INFIXTOPOSTFIX(실험3).ipch
+chapter5/.vs/chapter5/v16/ipch/AutoPCH/ecf98959ef24a2de/INFIXTOPOSTFIX(실험2).ipch
+chapter5/chapter5/chapter5.vcxproj
+chapter5/chapter5/chapter5.vcxproj.filters
+chapter5/chapter5/chapter5.vcxproj.user
+chapter5/chapter5/Debug/chapter5.Build.CppClean.log
+chapter5/chapter5/Debug/chapter5.exe.recipe
+chapter5/chapter5/Debug/chapter5.ilk
+chapter5/chapter5/Debug/chapter5.log
+chapter5/chapter5/Debug/chapter5.vcxproj.FileListAbsolute.txt
+chapter5/chapter5/Debug/infixtopostfix(실험1).obj
+chapter5/chapter5/Debug/infixtopostfix(실험2).obj
+chapter5/chapter5/Debug/infixtopostfix(실험3).obj
+chapter5/chapter5/Debug/vc142.idb
+chapter5/chapter5/Debug/vc142.pdb
+chapter5/chapter5/Debug/chapter5.tlog/chapter5.lastbuildstate
+chapter5/chapter5/Debug/chapter5.tlog/CL.command.1.tlog
+chapter5/chapter5/Debug/chapter5.tlog/CL.read.1.tlog
+chapter5/chapter5/Debug/chapter5.tlog/CL.write.1.tlog
+chapter5/chapter5/Debug/chapter5.tlog/link.command.1.tlog
+chapter5/chapter5/Debug/chapter5.tlog/link.read.1.tlog
+chapter5/chapter5/Debug/chapter5.tlog/link.write.1.tlog
+chapter5/Debug/chapter5.exe
+chapter5/Debug/chapter5.pdb
+chapter6/chapter6.sln
+chapter6/.vs/chapter6/v16/.suo
+chapter6/.vs/chapter6/v16/Browse.VC.db
+chapter6/.vs/chapter6/v16/ipch/AutoPCH/4c2ec6d02ca530a8/POINTER.ipch
+chapter6/chapter6/chapter6.vcxproj
+chapter6/chapter6/chapter6.vcxproj.filters
+chapter6/chapter6/chapter6.vcxproj.user
+chapter6/chapter6/Debug/chapter6.exe.recipe
+chapter6/chapter6/Debug/chapter6.ilk
+chapter6/chapter6/Debug/chapter6.log
+chapter6/chapter6/Debug/pointer.obj
+chapter6/chapter6/Debug/vc142.idb
+chapter6/chapter6/Debug/vc142.pdb
+chapter6/chapter6/Debug/chapter6.tlog/chapter6.lastbuildstate
+chapter6/chapter6/Debug/chapter6.tlog/CL.command.1.tlog
+chapter6/chapter6/Debug/chapter6.tlog/CL.read.1.tlog
+chapter6/chapter6/Debug/chapter6.tlog/CL.write.1.tlog
+chapter6/chapter6/Debug/chapter6.tlog/link.command.1.tlog
+chapter6/chapter6/Debug/chapter6.tlog/link.read.1.tlog
+chapter6/chapter6/Debug/chapter6.tlog/link.write.1.tlog
+chapter6/Debug/chapter6.exe
+chapter6/Debug/chapter6.pdb
+과제/Question(3장)문제풀이_20200675문서연.hwp
+과제/Question(4장_원형큐)문제풀이_20200675문서연.hwp
+과제/Question(5장_스택의응용)문제풀이_20200675문서연.hwp
+과제/4장/20200675문서연_4장과제.zip
+과제/4장/CircularQueue연습/Question(4장_원형큐)문제풀이_20200675문서연.hwp
+과제/컴퓨터공학전공20200675문서연_5주차과제/Question(5장_스택의응용)문제풀이_20200675문서연.hwp
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6).sln
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/.suo
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/Browse.VC.db
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/Browse.VC.db-shm
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/Browse.VC.db-wal
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/Browse.VC.opendb
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/ipch/AutoPCH/8adb90fa8b6d68bd/3.3큐1.ipch
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/ipch/AutoPCH/907d7bf330c736c9/4.1(실험3)_STACKTEST.ipch
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/ipch/AutoPCH/b708d7b6fb68686a/STACKTEST.ipch
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/ipch/AutoPCH/f609c39396d008d6/명함관리프로그램.ipch
+슬기로운코딩생활/Project3 (10.6)/.vs/Project3 (10.6)/v16/ipch/AutoPCH/fba95ce067e12059/3.3원형큐2.ipch
+슬기로운코딩생활/Project3 (10.6)/Debug/Project3 (10.6).exe
+슬기로운코딩생활/Project3 (10.6)/Debug/Project3 (10.6).pdb
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Project3 (10.6).vcxproj
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Project3 (10.6).vcxproj.filters
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Project3 (10.6).vcxproj.user
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/3.3원형큐2.obj
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/3.3큐1.obj
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/4.1(실험3)_stacktest.obj
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).exe.recipe
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).ilk
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).log
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/stacktest.obj
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/vc142.idb
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/vc142.pdb
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/명함관리프로그램.obj
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/명함관리프로그램.obj.enc
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).tlog/CL.command.1.tlog
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).tlog/CL.read.1.tlog
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).tlog/CL.write.1.tlog
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).tlog/link.command.1.tlog
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).tlog/link.read.1.tlog
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).tlog/link.write.1.tlog
+슬기로운코딩생활/Project3 (10.6)/Project3 (10.6)/Debug/Project3 (10.6).tlog/Project3 (10.6).lastbuildstate
