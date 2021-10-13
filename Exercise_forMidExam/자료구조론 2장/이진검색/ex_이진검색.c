@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int search(int numbers[], int size, int find);
 void print(int find, int index);
 
@@ -25,4 +25,4 @@ void print(int find, int index)
 {
 	if (index == -1) printf("%d는 배열안에 없는 값입니다.\n", find);
 	else printf("%d는 %d번 요소입니다.\n", find, index);
-}
+}*/
