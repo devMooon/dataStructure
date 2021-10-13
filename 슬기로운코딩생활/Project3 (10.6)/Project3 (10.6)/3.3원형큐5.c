@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #define MAX_SIZE 5
 
 int circle[MAX_SIZE];
@@ -50,4 +50,4 @@ int main(void)
 	insert(6);
 	print();
 	return 0;
-}
+}*/

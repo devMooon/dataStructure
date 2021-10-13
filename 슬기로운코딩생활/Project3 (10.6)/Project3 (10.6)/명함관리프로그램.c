@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
 #define NAME_SIZE 50
@@ -40,8 +40,6 @@ int main(void)
 
 	while ((i = select_menu) != 5) {
 		
-		
-
 		switch (i) {
 		case 1: 
 			input_card();
@@ -106,9 +104,7 @@ int delete_card(char* s)
 	int index = search_card(s);
 	if (index == -1) return 0;
 	for (i = index; i < top; i++) {
-		strcpy(cards[i].name, cards[i + 1].name);
-		strcpy(cards[i].company, cards[i + 1].company);
-		strcpy(cards[i].telephone, cards[i + 1].telephone);
+		cards[i] = cards[i + 1];
 	}
 	top--;
 	return 1;
@@ -143,4 +139,4 @@ void print_card_all(void)
 		printf("%s\t%s\t%s\n", cards[k].name, cards[k].company, cards[k].telephone);
 	}
 	printf("\n");
-}
+}*/
