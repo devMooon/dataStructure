@@ -400,3 +400,7 @@ Exercise_forMidExam/자료구조론 2장/자료구조론 2장/Debug/선형검색
 *.db-wal
 *.ipch
 *.exe
+*.opendb
+*.sln
+*.suo
+*.txt
