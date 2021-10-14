@@ -7,7 +7,7 @@ void binsearch(int list[], int searchnum, int left, int right) {
 
 	while (left <= right) {
 		middle = (left + right) / 2;
-		printf("실행! %d", num);
+		printf("실행! %d\n", num);
 		num++;
 		if (searchnum > list[middle]) left = middle + 1;
 		else if (searchnum < list[middle]) right = middle - 1;
