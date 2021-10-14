@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 void ascending(int numbers[], int size);
 void descending(int numbers[], int size);
 void printArray(int numbers[], int size);
@@ -48,4 +48,4 @@ void printArray(int numbers[], int size)
 		printf("%d ", numbers[i]);
 	}
 	printf("\n");
-}
+}*/
