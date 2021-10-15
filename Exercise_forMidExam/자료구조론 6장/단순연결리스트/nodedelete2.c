@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <malloc.h>
 
 struct node {
@@ -52,4 +52,4 @@ void delete(list_ptr* ptr, list_ptr node, list_ptr trail)
 	}
 	else 
 		trail->link = node->link;
-}
+}*/
