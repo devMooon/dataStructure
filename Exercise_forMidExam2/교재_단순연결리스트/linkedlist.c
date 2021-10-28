@@ -64,13 +64,12 @@ void insert(list_ptr p, int data)
 	list_ptr temp = NULL;
 	list_ptr before = NULL;
 
-	
 	for (temp = p; temp; temp = temp->link) {
 		if (temp->data < data) {
-			list_ptr newNode = (list_ptr)malloc(sizeof(list_node));
-			newNode->data = data;
-			newNode->link = temp;
-			before->link = newNode;
+			temp = (list_ptr)malloc(sizeof(list_node));
+			temp->data = data;
+			temp->link = before->link;
+			before->link = temp;
 			break;
 		}
 		before = temp;
